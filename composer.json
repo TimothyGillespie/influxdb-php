@@ -1,5 +1,5 @@
 {
-    "name": "influxdb/influxdb-php",
+    "name": "timothygillespie/influxdb-php",
     "description": "InfluxDB client library for PHP",
     "license": "MIT",
     "keywords": [
@@ -27,7 +27,7 @@
     ],
     "require": {
         "php": "^5.5 || ^7.0",
-        "guzzlehttp/guzzle": "^6.0"
+        "guzzlehttp/guzzle": "7.0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7"
